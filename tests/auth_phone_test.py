@@ -8,6 +8,7 @@ from pages.choice_country_page import ChoiceCountryPage
 from helpers.methods import Methods
 from tests.conftest import driver
 
+
 @allure.feature('Авторизация')
 @allure.title('Авторизация через телефон')
 def test_auth_by_phone():

@@ -7,7 +7,7 @@ desired_capabilities = {
     "platformName": "Android",
     "platformVersion": "10",
     "deviceName": "Android Emulator",
-    "app": "/Users/roman/PycharmProjects/bz_auto_tests/7938_stage.apk",
+    "app": "/Users/roman/PycharmProjects/BZ/8054_stage.apk",
     "noReset": "false",  # сохранение кеша, не сбрасывает кэш при выходе из теста
     "fullReset": "false"  # полный сброс данных + удаление прилки
 }
